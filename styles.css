@@ -213,6 +213,8 @@ li{
         width:200px;
         border-radius:8%;
         box-shadow: 5px 5px  50px black;
+        position:relative;
+        left: 260px;
     }
     #section-one{
         height:100vh;
@@ -224,8 +226,8 @@ li{
     #section-two>.flex-container{
         flex-direction: column;;
     }
-    #section-one button{
-        display:inline;
+    #section-one .d-grid{
+        margin-top:20vh ;
     }
     footer{
         height:30px;
