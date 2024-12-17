@@ -207,7 +207,7 @@ li{
       background-position: 0% 50%;
     }
   }
-  @media (max-width:720px){
+  @media (max-width:750px){
     .container img{
         height:200px;
         width:200px;
