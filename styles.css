@@ -213,8 +213,11 @@ li{
         width:200px;
         border-radius:8%;
         box-shadow: 5px 5px  50px black;
-        position:absolute;
-        left: 260px;
+        
+    }
+    .flex{
+        display:flex;
+        justify-content: center;
     }
     #section-one{
         height:100vh;
