@@ -214,8 +214,18 @@ li{
         border-radius:8%;
         box-shadow: 5px 5px  50px black;
     }
-    section{
+    #section-one{
         height:100vh;
+        text-align: center;
+    }
+    #section-two{
+        height:50vh;
+    }
+    #section-two>.flex-container{
+        flex-direction: column;;
+    }
+    #section-one button{
+        display:inline;
     }
     footer{
         height:30px;
