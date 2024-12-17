@@ -207,3 +207,17 @@ li{
       background-position: 0% 50%;
     }
   }
+  @media (max-width:720px){
+    .container img{
+        height:200px;
+        width:200px;
+        border-radius:8%;
+        box-shadow: 5px 5px  50px black;
+    }
+    section{
+        height:100vh;
+    }
+    footer{
+        height:30px;
+    }
+  }
