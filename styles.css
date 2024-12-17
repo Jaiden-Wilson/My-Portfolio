@@ -185,3 +185,25 @@ li{
     align-items: space-between;
     height:10vh;
  }
+ footer{
+    background: linear-gradient(300deg,green,black);
+    background-size: 180% 180%;
+    animation: gradient-animation-four 9s ease infinite;
+    color:white;
+    text-align: center;
+    height:30vh;
+ }
+ footer>p{
+    padding-top: 5%;
+ }
+ @keyframes gradient-animation-four {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
