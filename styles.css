@@ -90,6 +90,7 @@ li{
     border-radius:0;
     box-shadow:none;
     width:100%;
+    padding:0;
 }
 #section-four>h2{
     color:#036d5c;
@@ -212,7 +213,7 @@ li{
       background-position: 0% 50%;
     }
   }
-  @media (max-width:1280px){
+  @media (max-width:720px){
     .container img{
         height:200px;
         width:200px;
@@ -223,10 +224,9 @@ li{
         border-radius:0;
         box-shadow:none;
         width:100%;
+        padding:0;
     }
-    .card{
-        width: 100%;
-    }
+    
     .col-10{
         display:flex;
         width:100vw;
