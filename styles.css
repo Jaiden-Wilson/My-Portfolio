@@ -86,6 +86,9 @@ li{
     color:#036d5c;
     font-weight:bolder;
 }
+.card img{
+    border-radius:0;
+}
 #section-four>h2{
     color:#036d5c;
     text-align:center;
@@ -237,7 +240,7 @@ li{
         margin-top:20px ;
     }
     #section-three{
-        margin-top:20px;
+        margin-top:50px;
     }
     footer{
         height:30px;
