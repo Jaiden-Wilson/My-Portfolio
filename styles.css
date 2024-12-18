@@ -219,6 +219,7 @@ li{
         display:flex;
         width:100vw;
         justify-content: center;
+        background-color:blue;
     }
     #section-one{
         height:100vh;
