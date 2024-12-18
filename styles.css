@@ -215,8 +215,9 @@ li{
         box-shadow: 5px 5px  50px black;
         
     }
-    .row{
+    .col-10{
         display:flex;
+        width:100vw;
         justify-content: center;
     }
     #section-one{
