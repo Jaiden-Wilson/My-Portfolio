@@ -263,4 +263,14 @@ li{
     footer{
         height:10vh;
     }
+    .about h1{
+        color:white;
+        font-size:64px;
+    }
+    .about p{
+        font-size: 48px;
+        width:80%;
+        position:relative;
+        left:10%;
+    }
   }
