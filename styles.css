@@ -231,6 +231,7 @@ li{
     #section-two>.flex-container{
         flex-direction: column;
         gap:20px;
+        margin:20px;
     }
     #section-one .d-grid{
         margin-top:20px ;
