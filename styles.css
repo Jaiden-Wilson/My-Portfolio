@@ -253,6 +253,12 @@ li{
     }
     #carouselExample{
         width: 90vw;
+        position:relative;
+        left: 5vw;
+       
+    }
+    .carousel img{
+        height:250px;
     }
     footer{
         height:10vh;
