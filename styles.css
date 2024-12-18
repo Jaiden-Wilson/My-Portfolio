@@ -88,6 +88,8 @@ li{
 }
 .card img{
     border-radius:0;
+    box-shadow:none;
+    width:100%;
 }
 #section-four>h2{
     color:#036d5c;
