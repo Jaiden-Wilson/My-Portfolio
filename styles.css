@@ -229,10 +229,14 @@ li{
         height:50vh;
     }
     #section-two>.flex-container{
-        flex-direction: column;;
+        flex-direction: column;
+        gap:20px;
     }
     #section-one .d-grid{
         margin-top:20px ;
+    }
+    #section-three{
+        margin-top:20px;
     }
     footer{
         height:30px;
