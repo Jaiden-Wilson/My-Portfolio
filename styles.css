@@ -160,7 +160,8 @@ li{
   .contact img{
     height:100px;
     width:100px;
-    background: none;
+    background-color: transparent;
+
   }
   
   .contact-body{
@@ -266,7 +267,7 @@ li{
     }
     .about h1{
         color:white;
-        font-size:30px;
+        font-size:30fpx;
     }
     .about p{
         font-size: 24px;
@@ -277,7 +278,7 @@ li{
     .contact img{
         height:50px;
         width:50px;
-        background: none;
+        background-color: transparent;
     }
     .heading>h1{
         font-size:large;
