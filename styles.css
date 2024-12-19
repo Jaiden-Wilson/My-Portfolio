@@ -250,7 +250,7 @@ li{
         margin-top:20px ;
     }
     #section-three{
-        margin-top:100px;
+        margin-top:120px;
     }
     #carouselExample{
         width: 90vw;
@@ -278,9 +278,7 @@ li{
         width:50px;
         background-color: transparent;
     }
-    .contact{
-        gap:6px;
-    }
+    
     .heading>h1{
         font-size:4rem;
     }
