@@ -266,10 +266,10 @@ li{
     }
     .about h1{
         color:white;
-        font-size:64px;
+        font-size:40px;
     }
     .about p{
-        font-size: 48px;
+        font-size: 30px;
         width:80%;
         position:relative;
         left:10%;
@@ -278,5 +278,11 @@ li{
         height:50px;
         width:50px;
         background: none;
+    }
+    .heading>h1{
+        font-size:smaller
+    }
+    .heading{
+        text-align: center;
     }
   }
