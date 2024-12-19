@@ -2,7 +2,6 @@
     height:400px;
     width:400px;
     border-radius:8%;
-    box-shadow: 5px 5px  50px black;
 }
 #section-one{
     background:linear-gradient(300deg,green,black);
@@ -220,7 +219,6 @@ li{
         height:200px;
         width:200px;
         border-radius:8%;
-        box-shadow: 5px 5px  50px black;
     }
     .card img{
         border-radius:0;
@@ -267,10 +265,9 @@ li{
     }
     .about h1{
         color:white;
-        font-size:30fpx;
     }
     .about p{
-        font-size: 24px;
+        font-size: 14px;
         width:80%;
         position:relative;
         left:10%;
@@ -281,7 +278,7 @@ li{
         background-color: transparent;
     }
     .heading>h1{
-        font-size:large;
+        font-size:2rem;
     }
     .heading{
         text-align: center;
