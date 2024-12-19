@@ -160,6 +160,7 @@ li{
   .contact img{
     height:100px;
     width:100px;
+    background: none;
   }
   
   .contact-body{
@@ -272,5 +273,10 @@ li{
         width:80%;
         position:relative;
         left:10%;
+    }
+    .contact img{
+        height:50px;
+        width:50px;
+        background: none;
     }
   }
